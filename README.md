@@ -1,3 +1,8 @@
+# How to Use GitHub
+
+
+
+
 # GIT - Git is a control system that tracks down your projects
 # GITHUB - GITHUB holds the repositories, where people can also collaborate and use other features.
 # Repository - The repository is where you store your projects.
