@@ -6,7 +6,7 @@
 5. Open Webstorm and paste the link to Git 
 6. Select your project and edit on Webstorm
 7. Once finished, write a commit message for your file and commit
-8. Push to Github
+8. Push what you have on Webstorm to Github
 
 
 
